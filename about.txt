@@ -1,0 +1,9 @@
+About This Repository
+
+Repository Name: SCD-Lab-Assignment
+
+This repository is created for Software Construction and Development Assignment 2.
+
+The purpose of this repository is to practice Git and GitHub operations, including repository creation, commits, branching, and merging.
+
+This repository contains hello.txt, about.txt, and README.md files.
