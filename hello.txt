@@ -1,0 +1,6 @@
+Hello!
+
+My name is Ammara.
+I am a student.
+This is my SCD Lab Assignment 2.
+I am learning Git and GitHub.
